@@ -3,7 +3,7 @@ A step-by-step tutorial on building and running a minimal 16-bit x86 bootloader 
 
 Below is a complete README.md template you can use for your GitHub repository to explain how to compile and run your bootloader code.
 
-![Alt text]([image-url-or-file-path.png](https://github.com/florianschmid449-maverick/Schmid-OS-Simple-OS-Tutorial/blob/main/Screenshot_2026-07-13_17-26-20.png))
+![Alt text](https://raw.githubusercontent.com/florianschmid449-maverick/Schmid-OS-Simple-OS-Tutorial/refs/heads/main/Screenshot_2026-07-13_17-26-20.png)
 
 # Schmid OS: Minimal x86 Bootloader
 
